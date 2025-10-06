@@ -1,4 +1,8 @@
-# DCM_EYE_SOCKETS 💀  
+<div align="center">
+
+# DCM_EYE_SOCKETS 🩻
+
+</div>
 
 **Implementation activity:**  
 *“System under development for the detection of eye sockets in cranial tomography”*  
@@ -6,9 +10,10 @@ This repository contains progress reports on the development of a system for det
 
 ---
 
-### 👩‍💻 Authors and advisor  
+### 👩‍💻Authors and advisor👨🏻‍🏫
 - Maria José Gamboa Acero  
 - Daniel Santiago Monroy Miranda  
 
 **Advisor:** Said Pertuz  
 **Research Group:** Connectivity and Signal Processing Research Group (CPS)
+
